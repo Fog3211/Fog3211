@@ -24,8 +24,10 @@
 
 # Github status
 
-<img align="" height="137px" src="https://github-readme-stats.fog3211.vercel.app/api?username=Fog3211&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,085078,85D8CE&theme=graywhite" />
-<img align="" height="137px" src="https://github-readme-stats.fog3211.vercel.app/api/top-langs/?username=Fog3211&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+<div align="left">
+<img height="137px" src="https://github-readme-stats.fog3211.vercel.app/api/top-langs/?username=Fog3211&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats.fog3211.vercel.app/api?username=Fog3211&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,085078,85D8CE&theme=graywhite" />
+</div>
 
 ![grid snake animation](./grid-snake/github-contribution-grid-snake.svg)
 
